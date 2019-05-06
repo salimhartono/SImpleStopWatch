@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="title_activity_splash">SplashAct</string>
+    <string name="dummy_button">SKIP</string>
+    <string name="dummy_content">UKUR KECEPATAN TERBAIKMU</string>
+</resources>
